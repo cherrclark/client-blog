@@ -1,1 +1,55 @@
-<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
+body {
+    background-image: url("images/darkness.png");
+    background-repeat: repeat-x;
+}
+
+.nav {
+    font-variant-caps: titling-caps;
+    color: white;
+    font-size: px;
+    list-style-type: none;
+
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: Baskerville;
+    font-size: 90px;
+
+}
+h2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 10px;
+
+}
+p {
+    font-family: Big Caslon;
+
+}
+
+font-family {
+    Libre Baskerville', serif;
+}
+
+.one {
+    color: #00008b;
+
+}
+
+img {
+    border: darkblue solid 3px;
+    
+}
+
+.two {
+    color: #00008b;
+
+    }
+    
+a {
+    background-color: #ffffff;
+    padding: 10px;
+    color: black;
+}
