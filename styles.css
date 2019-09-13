@@ -13,7 +13,7 @@ body {
 h1 {
     color: #ffffff;
     text-align: center;
-    font-family: Baskerville;
+    font-family: "Libre Baskerville";
     font-size: 90px;
 
 }
@@ -25,29 +25,14 @@ h2 {
 
 }
 p {
-    font-family: Big Caslon;
-
-}
-
-font-family {
-    Libre Baskerville', serif;
-}
-
-.one {
-    color: #00008b;
-
+    font-family: 'Libre Caslon Display', serif;
 }
 
 img {
     border: darkblue solid 3px;
     
 }
-
-.two {
-    color: #00008b;
-
-    }
-    
+  
 a {
     background-color: #ffffff;
     padding: 10px;
